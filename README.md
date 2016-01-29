@@ -27,8 +27,6 @@ The steps in this ETL Example and their affiliated repositories are shown below:
  - Step 5: Files related to assessing the "manual" ETL process are in ETL_5
  - Additional steps will be added as I proceed...
  
-Aside from this README.md file, this repository also contains NHIS 1994 files downloaded directly from the [the National Health Interview Survey, 1994](http://bit.ly/1ddSUOC) web site.
+Aside from this README.md file, this repository also contains NHIS 1994 files downloaded directly from the [website](http://bit.ly/1ddSUOC) that distributes national health data, which is hosted at the University of Michigan.
 
-Please feel free to browse the NHIS 1994 data that is presented here. 
-
-After you have become familiar with what I've downloaded, please feel free to move to the ETL_2 repository.
+Please feel free to move to the ETL_2 repository at this point, or at a future moment of your convenience.
