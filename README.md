@@ -31,4 +31,6 @@ The steps in this ETL Example and their affiliated repositories are shown below:
  
 Aside from this README.md file, this repository also contains NHIS 1994 files downloaded directly from a NHIS distributing organization known as [ICPSR](http://bit.ly/1ddSUOC) that distributes national health data, which is hosted at the University of Michigan. You can learn more about the ICPSR at their [website](http://www.icpsr.umich.edu/icpsrweb/landing.jsp "website").
 
+More information about step 1 can be found in the directory `transforming_household` (and its subdirectories) which is at https://github.com/robbinsr/ETL_1/tree/master/transforming_household .
+
 Please feel free to move to the ETL_2 repository at this point, or at a future moment of your convenience.
