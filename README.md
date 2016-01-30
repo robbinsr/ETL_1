@@ -15,7 +15,9 @@ The reason I am sharing this project on GitHub is to show compentence:
 
 However, the results of this project (in combination with other, similar small projects) will enable me to create a portfolio of predictive health analytics examples, using publicly available health data, from 1994 to 2002.
 
-The first set of data for that project is a set of approximately 50,000 records from the National Health Interview Survey (NHIS) from 1994. Within this NHIS 1994 data, The first few steps in this project will focus only on one subset of the NHIS 1994 data. That subset of data has records about households that responded to the survey.
+The first set of data for that project is a set of approximately 50,000 records from the National Health Interview Survey (NHIS) from 1994. More about the National Health Interview Survey can be found [here](http://www.cdc.gov/nchs/nhis.htm "here") .  
+
+Within this NHIS 1994 data, The first few steps in this project will focus only on one subset of the NHIS 1994 data. That subset of data has records about households that responded to the survey.
 
 The steps in this ETL Example and their affiliated repositories are shown below:
 ---
@@ -27,6 +29,6 @@ The steps in this ETL Example and their affiliated repositories are shown below:
  - Step 5: Files related to assessing the "manual" ETL process are in ETL_5
  - Additional steps will be added as I proceed...
  
-Aside from this README.md file, this repository also contains NHIS 1994 files downloaded directly from the [website](http://bit.ly/1ddSUOC) that distributes national health data, which is hosted at the University of Michigan.
+Aside from this README.md file, this repository also contains NHIS 1994 files downloaded directly from a NHIS distributing organization known as [ICPSR](http://bit.ly/1ddSUOC) that distributes national health data, which is hosted at the University of Michigan. You can learn more about the ICPSR at their [website](http://www.icpsr.umich.edu/icpsrweb/landing.jsp "website").
 
 Please feel free to move to the ETL_2 repository at this point, or at a future moment of your convenience.
